@@ -3,9 +3,9 @@
 ## React/Redux/Python/Django SPA that allows users to simulate e-commerce
 
 - This application was built using React and Django. 
-- The application allows the user to simulate e-purchases using the PayPal sandbox. 
+- The application allows the users to simulate e-purchases using the PayPal sandbox. 
 - Moreover, it allows you to use it as a real e-commerce if to make some slight changes. 
-- The user just needs to regester account and use it as a e-commerce.
+- User just needs to regester account and use it as a e-commerce.
 <img src="https://raw.githubusercontent.com/Spartak-Belov-Floresku/game_land_spa/main/backend/static/images/first_screen.png">
 
 <img src="https://raw.githubusercontent.com/Spartak-Belov-Floresku/game_land_spa/main/backend/static/images/second_screen.png">

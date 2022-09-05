@@ -9,10 +9,10 @@
 
 #### To install the application on a local server is necessary.
 - Clone the code.
-- In bash run commands ```python -m venv venv```, ```source venv/bin/acttivate``` or ```. Scripts/activate```.
+- In bash run commands ```python -m venv venv```, ```source venv/bin/acttivate``` or ```. venv/Scripts/activate```.
 - In bash go to backend and run the commands
   - ```pip install -r requirements.txt```
-  - ```python manage.py migrate```,  ```python manage.py createsuperuser```, ```python manage.py runserver```
+  - ```python manage.py createsuperuser```, ```python manage.py runserver```
 - In bash go to frontend and run the commands ```npm install```, ```npm start```
 - The application will run on your local server for frontend ```http://localhost:3000``` for a backend  ```http://localhost:8000/admin```
 

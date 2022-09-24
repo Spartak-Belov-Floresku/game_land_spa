@@ -6,7 +6,7 @@
 - The application allows the users to simulate e-purchases using the PayPal sandbox. 
 - Moreover, it allows you to use it as a real e-commerce if to make some slight changes. 
 - User just needs to regester account and use it as a e-commerce.
-- 
+
 <img src="https://raw.githubusercontent.com/Spartak-Belov-Floresku/game_land_spa/main/backend/static/images/first_screen.png">
 
 <img src="https://raw.githubusercontent.com/Spartak-Belov-Floresku/game_land_spa/main/backend/static/images/second_screen.png">

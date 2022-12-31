@@ -1,5 +1,7 @@
 # React/Redux/Python/Django SPA that allows users to simulate e-commerce
 
+# [GameLand SPA test demo version](https://ambercity-demo.herokuapp.com/)
+
 - This application was built using React and Django. 
 - The application allows the users to simulate e-purchases using the PayPal sandbox. 
 - Moreover, it allows you to use it as a real e-commerce if to make some slight changes. 
